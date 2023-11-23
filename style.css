@@ -1,0 +1,337 @@
+body{
+    background-image: url(assets/img/sfondo.png);
+    margin: 5%;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.boxBlue{
+    background-image: linear-gradient(#0088AA, #006788);
+
+    height: 230px;
+    box-shadow: 2px 2px 5px rgb(54, 54, 54);
+    
+}
+
+
+.logo{
+    text-align: center;
+    padding-top: 8%;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 1.5em;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+
+.firstList{
+    text-align: center;
+    margin-top: 1.2em;
+    line-height: 1.3rem;
+}
+
+
+.whiteBox{
+    background-color: #FFFFFF;
+    height: 100%;
+    margin-top: 5%;
+    box-shadow: 1px 1px 5px rgb(131, 131, 131);
+    
+
+}
+
+
+#secondTitle{
+    text-align: left;
+    margin-left: 5%;
+    padding-top: 0.7em;    
+    line-height: 2.5rem;
+}
+
+
+.firstA{
+text-decoration: none;
+}
+
+
+.firstParagraph{
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+
+.secondParagraph{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 8%;
+    line-height: 1.5rem;
+}
+
+
+.divHeader{
+    background-color: #E2E1E0;
+    height: 12px;
+    padding-top: 0.35em;
+    padding-bottom: 0.3em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    width: 24.5%;
+    border-radius: 5px;
+}
+
+
+.thirdParagraph{
+    margin-left: 5%;
+    margin-right: 5%;
+    /* margin-top: 5%; */
+    margin-top: 8%;
+}
+
+
+.secondList{
+    margin-top: 12%;
+    list-style: disc;
+    margin-left: 9%;
+}
+
+
+.secondList li{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    line-height: 1rem;
+}
+
+
+.divMain{ 
+    background-color: #E2E1E0;
+    height: 12px;
+    padding-top: 0.35em;
+    padding-bottom: 0.3em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+
+    width: 18%;
+    border-radius: 5px;
+}
+
+
+.divFooter{
+    background-color: #E2E1E0;
+    height: 12px;
+    padding-top: 0.35em;
+    padding-bottom: 0.3em;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    width: 22%;
+    border-radius: 5px;
+}
+
+
+.fourthParagraph{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 12%;
+    line-height: 1.3rem;
+}
+
+
+.firstOl{
+    margin-left: 9%;
+    margin-right: 5%;
+    margin-top: 10%;
+    line-height: 1.2rem;
+    list-style: decimal;
+    margin-left: 14%;
+}
+
+
+.firstOl li{
+    line-height: 1.3rem;
+    margin-top: 5%;
+}
+
+
+.fifthParagraph{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    line-height: 1.3rem;
+}
+
+
+table{
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    /* margin-left: 5%; */
+    /* margin-right: 5%; */
+
+}
+
+
+td, th {
+    /* border: 1px solid black; */
+    width: 100%;
+    padding: 8px;
+    min-width: 10%;
+}
+
+
+th{
+    background-color: #3a69c7;
+    border: 0.1px solid white;
+    color: #edeeec;
+
+}
+
+tr:nth-child(odd){
+    background-color: rgb(228, 228, 228);
+
+}
+
+.table1{
+    border-bottom: 2px solid #3a69c7;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 15px;
+}
+
+
+h2{
+margin-top: 8%;
+}
+
+
+.sixthParagraph{
+    margin-top: 8%;
+margin-left: 5%;
+margin-right: 5%;
+line-height: 1.5rem;
+}
+
+
+iframe{
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    width: 90%;
+}
+
+
+.boxGrey{
+    background-color: #e1e1e2;
+    height: 200px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10% ;
+}
+
+
+.titleGreyBox{
+    padding-top: 7%;
+}
+
+
+.seventhParagraph{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    line-height: 1.4rem
+}
+
+
+#Name{
+    margin-left: 5%;
+    margin-top: 5%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+
+
+button{
+    padding: 5px;
+    background-color: #3369c5;
+    border: none;
+    color: white;
+}
+
+
+.articoliCorrelati{
+    background-color: #e1e1e2;
+    margin-left: 5% ;
+    margin-right: 5% ;
+    height: 120px;
+
+}
+
+
+
+.Paragraph{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
+.lastTitle{
+    padding-top: 3%;
+    text-align: left;
+    margin-left: 5%;
+}
+
+
+.Paragraph2{
+    margin-left: 62%;
+    margin-top: 8%;
+}
+
+.lastBox{
+    height: 150px;
+    background-image: linear-gradient(#005566, #323c37);
+    margin-top: 5%;
+    box-shadow: 3px 3px 8px rgb(0, 0, 0);
+   
+}
+
+
+.articoliCorrelati1{
+    background-color: #e1e1e2;
+    margin-left: 5% ;
+    margin-right: 5% ;
+    height: 120px;
+    
+
+}
+
+.lastDiv{
+    background-color: white;
+    height: 50px;
+}
+
+.lastTitle{
+    padding-top: 5%;
+    text-align: center;
+}
+
+
+.lastP{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    line-height: 1.4rem;
+    text-align: center;
+}
+
+
+
+
+
